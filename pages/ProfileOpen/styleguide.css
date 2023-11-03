@@ -1,0 +1,13 @@
+:root {
+  --black: rgba(29, 29, 31, 1);
+  --grey: rgba(110, 110, 115, 1);
+  --lightgrey: rgba(197, 197, 202, 1);
+  --white: rgba(251, 251, 251, 1);
+  --primary: rgba(4, 148, 115, 1);
+  --secondary: rgba(105, 42, 73, 1);
+  --warning: rgba(232, 98, 115, 1);
+  --style: var(--variable-collection-light-primary);
+  --newgrey: rgba(244, 244, 244, 1);
+  --lightgreengrey: rgba(231, 239, 237, 1);
+  --variable-collection-light-primary: rgba(9, 188, 147, 1);
+}

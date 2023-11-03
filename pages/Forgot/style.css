@@ -1,0 +1,225 @@
+html{
+  font-family: 'Montserrat', sans-serif;
+}
+.forgot-password {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.forgot-password .overlap-wrapper {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 1080px;
+}
+
+.forgot-password .overlap {
+  position: relative;
+  height: 1030px;
+}
+
+.forgot-password .rectangle {
+  position: absolute;
+  width: 1920px;
+  height: 120px;
+  top: 0;
+  left: 0;
+  background-color: #058e6e;
+}
+
+.forgot-password .image {
+  position: absolute;
+  width: 870px;
+  height: 980px;
+  top: 50px;
+  left: 960px;
+}
+
+.forgot-password .signup-form {
+  width: 850px;
+  height: 960px;
+  top: 60px;
+  left: 100px;
+  border-radius: 16px;
+  position: absolute;
+  overflow: hidden;
+}
+
+.forgot-password .text-wrapper {
+  position: absolute;
+  top: 191px;
+  left: 244px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: var(--black);
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.forgot-password .signup-button {
+  display: flex;
+  flex-direction: column;
+  width: 480px;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 0px;
+  top: 585px;
+  left: 185px;
+  background-color: var(--primary);
+  border-radius: 100px;
+  position: absolute;
+  overflow: hidden;
+}
+
+.forgot-password .div {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: var(--white);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.forgot-password .frame {
+  align-items: center;
+  gap: 24px;
+  position: absolute;
+  top: 433px;
+  left: 185px;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.forgot-password .frame-2 {
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.forgot-password .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: var(--black);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.forgot-password .div-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 480px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 12px 22px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 100px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--lightgrey);
+}
+
+.forgot-password .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--lightgrey);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.forgot-password .enter-the-email {
+  position: absolute;
+  top: 287px;
+  left: 198px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.forgot-password .for-security-reasons {
+  position: absolute;
+  top: 351px;
+  left: 198px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.forgot-password .group {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 934px;
+  left: 1734px;
+  border-radius: 96px;
+  border: 1px solid;
+  border-color: var(--lightgrey);
+}
+
+.forgot-password .arrow-next-small {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 11px;
+  left: 11px;
+}
+
+.forgot-password .group-2 {
+  position: absolute;
+  width: 286px;
+  height: 63px;
+  top: 29px;
+  left: 390px;
+}
+
+.forgot-password .LOGO {
+  position: absolute;
+  width: 210px;
+  height: 43px;
+  top: 2px;
+  left: 76px;
+}
+
+.forgot-password .overlap-group {
+  position: absolute;
+  width: 63px;
+  height: 63px;
+  top: 0;
+  left: 0;
+  background-color: var(--lightgreengrey);
+  border-radius: 31.5px;
+}
+
+.forgot-password .img {
+  position: absolute;
+  width: 51px;
+  height: 54px;
+  top: 4px;
+  left: 6px;
+}

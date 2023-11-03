@@ -1,0 +1,26 @@
+:root {
+  --grey: rgba(110, 110, 115, 1);
+  --lightgrey: rgba(197, 197, 202, 1);
+  --primary: rgba(4, 148, 115, 1);
+  --lightlightgrey: rgba(228, 228, 234, 1);
+  --lightgreengrey: rgba(231, 239, 237, 1);
+  --newgrey: rgba(244, 244, 244, 1);
+  --white: rgba(251, 251, 251, 1);
+  --primarylight: rgba(9, 188, 147, 1);
+  --black: rgba(29, 29, 31, 1);
+  --secondary: rgba(105, 42, 73, 1);
+  --warning: rgba(232, 98, 115, 1);
+  --red: rgba(248, 65, 71, 1);
+  --orange: rgba(255, 153, 0, 1);
+  --roadnetwork-casing: rgba(217, 217, 217, 1);
+  --roadnetwork: rgba(255, 255, 255, 1);
+  --roadpath: rgba(204, 204, 204, 1);
+  --rail: rgba(204, 204, 204, 1);
+  --road: rgba(107, 122, 133, 1);
+  --road-font-family: "Inter-Regular", Helvetica;
+  --road-font-weight: 400;
+  --road-font-size: 7px;
+  --road-letter-spacing: 0px;
+  --road-line-height: normal;
+  --road-font-style: normal;
+}
